@@ -39,6 +39,9 @@ Perform deeper analysis including:
 - **Fraudulent Transactions & Refund Impact Analysis**
 - **Sales Cannibalization Effect (Discount vs. Non-Discount Sales)**
 
+## Execution
+I ran all the SQL queries online at CSV Fiddle to validate the outputs and ensure accuracy.
+
 ## Conclusion
 The **advanced SQL analysis** provided deep insights into customer behavior, product performance, and operational trends. These insights can be used to optimize pricing strategies, improve logistics, and enhance customer retention. The findings from this assessment lay the groundwork for further business intelligence and decision-making processes.
 
