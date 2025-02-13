@@ -52,5 +52,5 @@ The **advanced SQL analysis** provided deep insights into customer behavior, pro
 
 
 ## here below is the link of Dashboard created using Looker Studio
-# Link - https://lookerstudio.google.com/s/r0kd3KDjFRE
+# Link - https://lookerstudio.google.com/s/haQmdVrYV18
 
